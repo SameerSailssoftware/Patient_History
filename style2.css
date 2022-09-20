@@ -309,6 +309,7 @@ td{
 .m-4 {
     margin: 1.5rem !important;
     font-family: sans-serif !important;
+    color: #5d636b;
 }
 
 #left{
@@ -377,13 +378,14 @@ color: #B9B9B9;
 }
 .form-control {
     height: 2rem !important;
-    min-height: 2.2rem !important;
+    /* min-height: 2.2rem !important; */
 }
 
 #secondary {
     background-color: #0b86bb;
     color: white;
     font-size: 13px;
+    height: 2rem;
     font-family: sans-serif;
     border: none;
     font-weight: normal;
@@ -422,16 +424,6 @@ select {
 
 
 
-element.style {
-}
-#secondary {
-    background-color: #0b86bb;
-    color: white;
-    font-size: 13px;
-    
-    border: none;
-    font-weight: normal;
-}
 .pat-hist--header .rx--filter_text .secondary {
     height: 2.3rem;
     position: relative;
@@ -686,14 +678,14 @@ padding: 9px 0px;
 #undefined{
 
     background-color: #ffffff;
-    height: 38px;
+    height: 2rem;
     border-width: 1px;
     width: 100%;
     font-weight: 550;
     border-color: #B7BEC8 !important;
     align-self: center;
     font-size: 13px;
-    color: #51a351;
+    color: #5d636b;
     border-radius: 5px;
 
 }
