@@ -233,6 +233,16 @@ body{
     border-radius: 5px;
 }
 
+#tbstud2 {
+    width: 100%;
+    /* margin: 50px auto; */
+    background-color: #ebf3f9;
+    border-collapse: separate;
+    border-spacing: 3px;
+    box-shadow: 0 1px 4px 0px rgb(236 244 250);
+    border-radius: 5px;
+}
+
 .column_heading {
     
     background-color: #d4e2ee;
